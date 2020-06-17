@@ -15,11 +15,13 @@
 
 **Which issue(s) this PR fixes**:
 <!--
-*Automatically closes linked issue when PR is merged.
-Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
+*Automatically closes linked pivotal story when PR is merged.
+Usage: [(Finishes|Fixes|Delivers) #TRACKER_STORY_ID]
+
+docs: https://www.pivotaltracker.com/help/articles/github_integration/
 -->
 
-Fixes #
+[Fixes #]
 
 **Any important notes for reviewers?**:
 
